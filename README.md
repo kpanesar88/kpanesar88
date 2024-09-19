@@ -9,7 +9,8 @@
 💬 &nbsp;Feel free to reach out to me for any questions or concerns, or just for some interesting conversations.\
 ✉️ &nbsp;You can shoot me an email or contact me by clicking on the Linktree Link to the left!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="./assets/cat-computer.gif" width='250' align="right"/>
+
 
 ### 🛠 &nbsp;Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=autocad,arduino,bash,bootstrap,c,cpp,css,eclipse,git,github,html,js,java,matlab,nodejs,nextjs,py,react,vscode&perline=8)](https://skillicons.dev)
