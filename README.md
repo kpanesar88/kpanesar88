@@ -8,25 +8,11 @@
 
 -->
 
-Hi 👋 My name is Aaron Rodi
+Hi 👋 My name is Karanveer Panesar
 ===========================
 
-Software Developer
+Second Year Computer Engineering Student @ York University
 ------------------
-
-Information technology professional. Strong background in customer service and
-troubleshooting. Enthusiastic about applying lessons to solve problems by
-engineering a solution.
-Graduate of Delgado Community College with a degree in Information Technology
-focusing on Front-end Web Design. I am extremely passionate about web design
-and front-end development, and take great pride in my ability to create intuitive
-and engaging user experiences. For me, coding is more than just a profession - it
-is a true passion. I am constantly exploring new techniques and technologies, and
-am always seeking to expand my skillset in order to create the most effective,
-efficient, and visually stunning solutions possible. Whether I'm developing
-complex, dynamic websites or crafting elegant, intuitive user interfaces, I am
-always focused on delivering exceptional results that meet or exceed the highest
-standards of quality and performance.
 
 * 🌍  I'm based in Lafayette, Louisiana
 * 🖥️  See my portfolio at [Aaron Rodi](http://aaron-rodi.netlify.app/)
