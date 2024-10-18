@@ -30,6 +30,11 @@ Computer Engineering Student @ York University
 
 ### Currently Learning
 
+<p align="left">
+  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+
+</p>
 
 ### Socials
 
