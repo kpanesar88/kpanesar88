@@ -26,6 +26,7 @@ Computer Engineering Student @ York University
   
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 </p>
 
 ### Currently Learning
