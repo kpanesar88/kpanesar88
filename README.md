@@ -52,7 +52,13 @@ Computer Engineering Student @ York University
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/AA-Ron#0695" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/aaronrodi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/metalhead5209" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/a_wodi" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aaron-rodi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/a_wodi_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/AA-Ron#0695" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<p align="left"> <a href="https://discord.com/users/AA-Ron#0695" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+<p align="left"> <a href="https://discord.com/users/AA-Ron#0695" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/instagram-dark.svg" width="32" height="32" /></a> 
+<p align="left"> <a href="https://discord.com/users/AA-Ron#0695" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/linkedin-dark.svg" width="32" height="32" /></a> 
+
+
+
 
 ### Badges
 
