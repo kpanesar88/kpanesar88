@@ -51,11 +51,11 @@ Computer Engineering Student @ York University
 </p>
 
 ### Socials
-
-<p align="left"> <a href="https://discord.com/users/AA-Ron#0695" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-<p align="left"> <a href="https://discord.com/users/AA-Ron#0695" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
-<p align="left"> <a href="https://discord.com/users/AA-Ron#0695" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/instagram-dark.svg" width="32" height="32" /></a> 
-<p align="left"> <a href="https://discord.com/users/AA-Ron#0695" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/linkedin-dark.svg" width="32" height="32" /></a> 
+<p align="left"> 
+<a href="https://discord.com/users/AA-Ron#0695" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<a href="https://discord.com/users/AA-Ron#0695" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+<a href="https://discord.com/users/AA-Ron#0695" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/instagram-dark.svg" width="32" height="32" /></a> 
+<a href="https://discord.com/users/AA-Ron#0695" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/linkedin-dark.svg" width="32" height="32" /></a> 
 
 
 
