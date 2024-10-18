@@ -1,26 +1,24 @@
-<!-- <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Karanveer</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Karanveer</h2>
 
 <img alt="Night Coding" src="./assets/cat-computer.gif" width='250' align="right"/>
-
 
 ### 🛠 &nbsp;Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=autocad,arduino,bash,bootstrap,c,cpp,css,eclipse,git,github,html,js,java,matlab,nodejs,nextjs,py,react,vscode&perline=8)](https://skillicons.dev)
 
--->
+
 
 Hi 👋 My name is Karanveer Panesar
 ===========================
 
-Second Year Computer Engineering Student @ York University
+Computer Engineering Student @ York University
 ------------------
 
-* 🌍  I'm based in Lafayette, Louisiana
-* 🖥️  See my portfolio at [Aaron Rodi](http://aaron-rodi.netlify.app/)
-* ✉️  You can contact me at [metalhead5209@gmail.com](mailto:metalhead5209@gmail.com)
+* 🌍  I'm based in the Greater Toronto Area, Ontario!
+* 🖥️  See my portfolio at [in progress]
+* ✉️  You can contact me at [karanveerpanesar04@gmail.com](mailto:karanveerpanesar04@gmail.com)
 * 🧠  I'm learning Every Day
 * 🤝  I'm open to collaborating on Open source projects
-* ⚡  I love Star Wars
-* 👨‍💼  CGI Federal 
+* ⚡  I love playing video games and volleyball!
 
 ### Skills
 
