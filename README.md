@@ -54,3 +54,12 @@ Hi 👋 My name is Karanveer Panesar
 <a href="https://discord.com/users/AA-Ron#0695" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
 <a href="https://discord.com/users/AA-Ron#0695" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/instagram-dark.svg" width="32" height="32" /></a> 
 <a href="https://discord.com/users/AA-Ron#0695" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/linkedin-dark.svg" width="32" height="32" /></a> 
+
+## Currently Working On
+
+- **Personal Portfolio**: A personal website to showcase my skills, projects, and experiences.  
+  _Learning_: CSS, HTML, JavaScript, React, Tailwind, and how to fully deploy a website
+
+- **Benchmarking Tool**: A tool designed to measure and compare the performance metrics of different software systems.  
+  _Learning_: Python, gputul, cpuutil, C++, Git, VS Code
+
