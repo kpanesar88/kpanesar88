@@ -46,7 +46,6 @@ Hi 👋 My name is Karanveer Panesar
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 </p>
 
- <img alt="Night Coding" src="./assets/cat-computer.gif" width="300" height="300" align="right"/> 
 
 ### Socials
 <p align="left"> 
@@ -55,6 +54,8 @@ Hi 👋 My name is Karanveer Panesar
 <a href="https://discord.com/users/AA-Ron#0695" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/instagram-dark.svg" width="32" height="32" /></a> 
 <a href="https://discord.com/users/AA-Ron#0695" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/linkedin-dark.svg" width="32" height="32" /></a> 
 
+ <img alt="Night Coding" src="./assets/cat-computer.gif" width="300" height="300" align="right"/> 
+ 
 ## Currently Working On
 
 - **Personal Portfolio**: A personal website to showcase my skills, projects, and experiences.  
