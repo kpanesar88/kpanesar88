@@ -50,7 +50,7 @@ Hi 👋 My name is Karanveer Panesar
 ### Socials
 <p align="left"> 
 <a href="https://github.com/kpanesar88" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
-<a href="https://discord.com/users/AA-Ron#0695](https://www.linkedin.com/in/karanveer-panesar-0203a1247/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/linkedin-dark.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/karanveer-panesar-0203a1247/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/linkedin-dark.svg" width="32" height="32" /></a> 
 
  <img alt="Night Coding" src="./assets/cat-computer.gif" width="300" height="300" align="right"/> 
  
