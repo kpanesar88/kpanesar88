@@ -1,9 +1,3 @@
-Hi 👋 My name is Karanveer Panesar
-===========================
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpanesar88&langs_count=8&bg_color=1c1917&text_color=f1c40f&title_color=f1c40f" alt="Top Languages" align="right" />
-
 * 🏫  Computer Engineering Student @ York University
 * 🌍  I'm based in the Greater Toronto Area, Ontario!
 * 🖥️  See my portfolio at [in progress]
