@@ -1,6 +1,6 @@
 * 🏫  Computer Engineering Student @ York University
 * 🌍  I'm based in the Greater Toronto Area, Ontario!
-* 🖥️  See my portfolio at [kpanesar.dev](https://kpanesar.dev)
+* 🖥️  See my portfolio at [kpanesar.dev](www.kpanesar.dev)
 * ✉️  You can contact me at [karanveerpanesar04@gmail.com](mailto:karanveerpanesar04@gmail.com)
 * 🛠️  I like tinkering with hardware and building DIY projects!
 * ⚡  I love playing video games and volleyball!
