@@ -2,9 +2,7 @@
 * 🌍  I'm based in the Greater Toronto Area, Ontario!
 * 🖥️  See my portfolio at <a href="https://kpanesar.dev" target="_blank" rel="noopener noreferrer">kpanesar.dev</a>
 * ✉️  You can contact me at [karanveerpanesar04@gmail.com](mailto:karanveerpanesar04@gmail.com)
-* 🛠️  I like tinkering with hardware and building DIY projects!
 * ⚡  I love playing video games and volleyball!
-* 🤝  I'm open to collaborating on open-source projects.
 
 ## Skills
 
