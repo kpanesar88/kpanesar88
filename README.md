@@ -2,7 +2,7 @@
 * 🌍  I'm based in the Greater Toronto Area, Ontario!
 * 🖥️  See my portfolio at <a href="https://kpanesar.dev" target="_blank" rel="noopener noreferrer">kpanesar.dev</a>
 * ✉️  You can contact me at [karanveerpanesar04@gmail.com](mailto:karanveerpanesar04@gmail.com)
-* ⚡  I love playing video games and volleyball!
+* ⚡  Hit me up if you want to play volleyball or videogames too!
 
 ## Skills
 
