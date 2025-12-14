@@ -1,11 +1,10 @@
-* 🏫  Computer Engineering Student @ York University
+ <img alt="Night Coding" src="./assets/cat-computer.gif" width="300" height="300" align="right"/> 
+
+*  🏫  Computer Engineering Student @ York University
 * 🌍  I'm based in the Greater Toronto Area, Ontario!
 * 🖥️  See my portfolio at <a href="https://kpanesar.dev" target="_blank" rel="noopener noreferrer">kpanesar.dev</a>
 * ✉️  You can contact me at [karanveerpanesar04@gmail.com](mailto:karanveerpanesar04@gmail.com)
 * ⚡  Hit me up if you want to play volleyball or videogames too!
-
- <img alt="Night Coding" src="./assets/cat-computer.gif" width="300" height="300" align="right"/> 
-
 
 ### Socials
 <p align="left"> 
