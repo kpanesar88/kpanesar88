@@ -1,6 +1,6 @@
  <img alt="Night Coding" src="./assets/cat-computer.gif" width="300" height="300" align="right"/> 
 
-## Intersecting Hardware & AI
+### Intersecting Hardware & AI
 
  Computer Engineering Student @ York University
 
